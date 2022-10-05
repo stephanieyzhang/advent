@@ -45,7 +45,14 @@
     "xtr1common": "cpp",
     "xutility": "cpp",
     "bitset": "cpp",
-    "string": "cpp"
+    "string": "cpp",
+    "algorithm": "cpp",
+    "charconv": "cpp",
+    "map": "cpp",
+    "xtree": "cpp",
+    "list": "cpp",
+    "unordered_map": "cpp",
+    "xhash": "cpp"
   },
   "editor.detectIndentation": false,
   "editor.insertSpaces": true,
