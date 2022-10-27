@@ -52,7 +52,8 @@
     "xtree": "cpp",
     "list": "cpp",
     "unordered_map": "cpp",
-    "xhash": "cpp"
+    "xhash": "cpp",
+    "numeric": "cpp"
   },
   "editor.detectIndentation": false,
   "editor.insertSpaces": true,
